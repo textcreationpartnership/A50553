@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the queen at White-Hall, on the fast, July 15. 1691. By R. Meggott, D.D. Dean of Winchester, and chaplain to Their Majesties. Published by her Majesties special command.</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50553</idno>
+            <idno type="STC">Wing M1630A</idno>
+            <idno type="STC">ESTC R217896</idno>
+            <idno type="EEBO-CITATION">99829539</idno>
+            <idno type="PROQUEST">99829539</idno>
+            <idno type="VID">33979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1871:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the queen at White-Hall, on the fast, July 15. 1691. By R. Meggott, D.D. Dean of Winchester, and chaplain to Their Majesties. Published by her Majesties special command.</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Bennet, at the Half-Moon in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI. [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33979:1"/>
+            <pb facs="tcp:33979:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the QUEEN, AT WHITE-HALL, On the FAST, <hi>July</hi> 15. 1691.</p>
+            <p>By <hi>R. Meggott,</hi> D.D. Dean of <hi>Wincheſter,</hi> and Chaplain to Their Majeſties.</p>
+            <p>Publiſhed by Her Maieſties Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard. MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:33979:2"/>
+            <pb n="1" facs="tcp:33979:2"/>
+            <epigraph>
+               <q>
+                  <bibl>2 SAM. XXIV. 14.</bibl>
+                  <p>And David ſaid unto Gad, I am in a great ſtrait: let us fall now into the hand of the Lord, (for his mercies are great) and let me not fall into the hand of man.</p>
+               </q>
+            </epigraph>
+            <p>THat none who pretend love to their native Country, either upon <hi>diſſatis<g ref="char:EOLhyphen"/>faction</hi> about the manner of the <hi>publick ſet<g ref="char:EOLhyphen"/>tlement,</hi> or <hi>diſcontent</hi> upon account of any <hi>perſonal diſappointment,</hi> may be ſo far preju<g ref="char:EOLhyphen"/>diced, as to be cold or careleſs in their de<g ref="char:EOLhyphen"/>votions this day, ſet apart for the imploring a bleſſing upon their <hi>Majeſties and their forces,</hi> againſt the threatning ambition of the <hi>common enemy of Europe:</hi> That none (I ſay)
+<pb n="2" facs="tcp:33979:3"/>may be leavened and ſowred to that degree, as, if not to <hi>deſire,</hi> yet, not dread or regard our <hi>ill ſucceſs,</hi> I have choſe to repreſent to you, the horrid and important conſequences of it.</p>
+            <p>Howſoever it may look at a diſtance to ſome men in their paſſions, it is certainly one of the greateſt <hi>judgments</hi> that can befall a <hi>nation,</hi> to be <hi>ſubdued</hi> by, and <hi>brought</hi> un<g ref="char:EOLhyphen"/>der the <hi>power</hi> of their profeſſed inveterate <hi>enemies.</hi>
+            </p>
+            <p>This appeareth here to have been the <hi>opi<g ref="char:EOLhyphen"/>nion</hi> of <hi>wiſe</hi> and <hi>pious David,</hi> who, when he was commanded by God to make his choice of thoſe three <hi>evils,</hi>
+               <note place="margin">V. 12.</note> the <hi>famine,</hi> the <hi>peſti<g ref="char:EOLhyphen"/>lence,</hi> or <hi>flying before his enemies,</hi> deprecateth the <hi>laſt,</hi> as incomparably the <hi>greateſt</hi> of them all.</p>
+            <p>The <hi>famine</hi> was to have been a <hi>long</hi> one, to have held for <hi>ſeven years,</hi> in which time what miſerable ſtraits muſt they neceſſarily have been reduced to!<note place="margin">2 King. 6.25.</note> In a <hi>famine</hi> an <hi>aſſes head</hi> hath been ſold for <hi>fourſcore pieces of Sil<g ref="char:EOLhyphen"/>ver,</hi> and a <hi>fourth part of a cab of dung,</hi> for <hi>five pieces of Silver:</hi>
+               <note place="margin">6.27.</note> In a <hi>famine</hi> there is no <hi>help out of the barn-floor, or out of the wine<g ref="char:EOLhyphen"/>preſs,</hi>
+               <pb n="3" facs="tcp:33979:3"/>but <hi>the hands of the pittiful women have ſodden their own children,</hi>
+               <note place="margin">Lam. 4.10.</note> 
+               <hi>and made them their meat:</hi> and tho in one of ſo unuſual a con<g ref="char:EOLhyphen"/>tinuance, he could not but expect the moſt woful extremities, yet he looketh upon <hi>fly<g ref="char:EOLhyphen"/>ing before his enemies</hi> as more <hi>diſmal</hi> than <hi>that.</hi>
+            </p>
+            <p>The <hi>Peſtilence</hi> was to have laſted but <hi>three days,</hi> but when we conſider what a <hi>depopulation</hi> might have been made even in that <hi>ſhort time,</hi> we muſt conclude, the thoughts of it could not but be very terrible to him.<note place="margin">2 Kings 19.30.</note> When the <hi>deſtroying Angel of the Lord</hi> went out againſt the <hi>camp of the Aſſyri<g ref="char:EOLhyphen"/>ans</hi> in <hi>one night he ſmote of them an hundred fourſcore and five thouſand;</hi> and at that pro<g ref="char:EOLhyphen"/>portion how great muſt be the number that might have been <hi>ſmitten</hi> in <hi>three whole days!</hi> and yet this he chooſeth alſo, rather than <hi>flying before his enemies:</hi> tho either of the other muſt have been very <hi>ſore</hi> calamities, yet this he reckoned would be a <hi>ſorer.</hi> So he manifeſteth by the anſwer he returneth in the Text, <hi>David ſaid unto Gad I am in a great ſtrait, let us fall now into the hand of the Lord (for his mercies are great) but
+<pb n="4" facs="tcp:33979:4"/>let me not fall into the hand of man.</hi>
+            </p>
+            <p>That the whole Story of this, as well as what I would infer from it, may appear the clearer, I ſhall open theſe three things to you.</p>
+            <p>
+               <hi>Firſt,</hi> wherein the greatneſs of <hi>David</hi>'s ſin in <hi>numbring the People,</hi> (which was the cauſe of this judgment) conſiſted?</p>
+            <p>
+               <hi>Secondly,</hi> Why God puniſhed the People for it (for unto them all three of the Plagues propounded did extend, which ſoever he had choſe of them) when the ſin was only <hi>Davids?</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Why <hi>David</hi> ſo particularly pray<g ref="char:EOLhyphen"/>eth againſt <hi>flying before his Enemies,</hi> as ſo much more dreadful than either of the other <hi>two?</hi>
+            </p>
+            <p>The firſt thing I would open is wherein the <hi>greatneſs of</hi> David's <hi>ſin</hi> in <hi>numbring the Peo<g ref="char:EOLhyphen"/>ple</hi> (which was the cauſe of this judgment lay? The thing at firſt ſight doth not look like ſo heinous a crime, as to deſerve ſo ſe<g ref="char:EOLhyphen"/>vere a puniſhment. It had been done before often, and we do not read any fault was found with it, any diſpleaſure from God a<g ref="char:EOLhyphen"/>roſe upon it. Moſes <hi>numbred the People,</hi>
+               <pb n="5" facs="tcp:33979:4"/>Numb. 1.19. Saul <hi>numbred the people,</hi> 1 Sam. 11.8. <hi>David</hi> himſelf <hi>numbred the People</hi> be<g ref="char:EOLhyphen"/>fore, 2 <hi>Sam.</hi> 15.1 and none of them are blamed for it, no evil enſued upon it. How cometh it now then to be taken ſo very ill?</p>
+            <p>Some <hi>men</hi> indeed are ſo uncertain and humourous, that what they are well enough pleaſed with at one time, they will be much offended with at another. But this is not to be ſuppoſed in <hi>God:</hi> No, <hi>This numbring of the People</hi> was of a different fort from any of them I but now mentioned. <hi>Moſes</hi>'s num<g ref="char:EOLhyphen"/>bring the people was upon a <hi>civil</hi> account, by the expreſs command of God, to pre<g ref="char:EOLhyphen"/>ſerve their Pedegrees after their Families. <hi>Sauls</hi> numbring the People was upon a <hi>milita<g ref="char:EOLhyphen"/>ry</hi> account, when he was to march againſt the <hi>Ammonites,</hi> that he might know what ſtrength he had. <hi>David</hi>'s numbring the people <hi>before</hi> was upon the <hi>ſame</hi> account when they were going to battle to rank them un<g ref="char:EOLhyphen"/>der their ſeveral Officers. But this was for none of theſe ends, no juſtifiable reaſon to be given of it Upon this account <hi>Joab</hi> modeſtly endeavoured to put him off from
+<pb n="6" facs="tcp:33979:5"/>it, <hi>v.</hi> 3. <hi>of this Chapter, He ſaid unto the King, Now the Lord thy God add unto the People an hundred fold how many ſoever they be, but why doth my Lord the King delight in this thing?</hi> Humbly intimating that he had better for<g ref="char:EOLhyphen"/>bear it, that it was needleſs and improper.</p>
+            <p>
+               <hi>Exodus</hi> 30.12, 13. God ſayeth to Moſes. <hi>when thou takeſt the ſum of the Children of Iſrael after their number, then ſhall they give every man a ranſome for his Soul to the Lord, when thou numbreſt them: that there be no Plague among them, when thou numbreſt them. This they ſhall give every one that paſſeth among them that are numbred half a Shekel after the Shekel of the Sanctuary.</hi> He enjoyneth this ſo, as that it ſhould be a forfeiture of their Lives, if they omitted it. And the <hi>Jewiſh</hi> Doctors generally reckon this to be <hi>Davids</hi> ſin, that when he numbred them, he did not cauſe them to pay this mony. But other Inter<g ref="char:EOLhyphen"/>preters with greater probability, lay it upon another thing, Namely, his <hi>Pride</hi> and <hi>Vain-Glory,</hi> that, when there was no real occaſi<g ref="char:EOLhyphen"/>on that did require it, he would have, them <hi>numbred</hi> meerly in a vaunting way, that it might be ſpread about both in his own, and
+<pb n="7" facs="tcp:33979:5"/>other Kingdoms, how vaſt their <hi>number</hi> was. So that if now he had made them pay this offering, it had been ſo far from making it no ſin in him, that (I appreheud) it would but have aggravated, and made it greater. For then to his <hi>Pride,</hi> he had added <hi>Oppreſ<g ref="char:EOLhyphen"/>ſion,</hi> by needleſs taxing and peeling of his Subjects.</p>
+            <p>That he was conſcious to himſelf of no good end he had in it, appeareth by the <hi>10th</hi> v. of this Chapter, wherein we find that before <hi>Gad</hi> came to him, <hi>his heart ſmote him and he ſaid unto the Lord, I have ſinned greatly in that I have done.</hi> So great a ſin was it, not only in God's Eye but alſo in his own, <hi>to truſt in man and make Fleſh his arm.</hi> And may all that fear his name of what Rank and Condition ſoever they are, as they ex<g ref="char:EOLhyphen"/>pect his bleſſing, in every circumſtance have a care of it!</p>
+            <p>It is a dangerous miſtake to fancy, that none but <hi>ſenſual</hi> Extravagancies, ſuch as <hi>In<g ref="char:EOLhyphen"/>temperance</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs,</hi> &amp;c. are diſpleaſing to the Almighty. <hi>Odious</hi> as theſe are, we may learn from this ſtory, he is as highly provok<g ref="char:EOLhyphen"/>ed by <hi>ſpiritual</hi> ſins, ſuch as we generally
+<pb n="8" facs="tcp:33979:6"/>have favourable opinion of, the having our <hi>hearts lifted up</hi> with creature enjoyments, and <hi>departing from the Lord our God.</hi>
+            </p>
+            <p>But ſtill it being <hi>David</hi> only that was guilty, it remaineth to be enquired into, why God puniſheth the <hi>People</hi> for it? How could they help it? It was none of their Doings. Doth not God himſelf ſet down this for his rule,<note place="margin">Ezek. 18.20.</note> 
+               <hi>The Soul that ſinneth it ſhall dye. The Son ſhall not bear the iniquity of the Father, neither ſhall the Father bear the iniquity of the Son?</hi> How come then the <hi>Subjects</hi> here to bear the iniquity of their <hi>King? Shall not the Judge of all the Earth do right?</hi>
+            </p>
+            <p>Yes, there is nothing here that maketh to the contrary. It might be ſufficient to alledg the near <hi>relation</hi> between <hi>Prince</hi> and <hi>People,</hi> and their welfare ſo mutually depending on each other, that the Puniſhment of the one is t' others; and as he ſometimes <hi>puniſheth</hi> the <hi>People</hi> in their <hi>Prince; The Lord was angry with Moſes for their ſakes:</hi>
+               <note place="margin">Deut. 1.37</note> So he ſometimes puniſheth the <hi>Prince</hi> in his <hi>People;</hi> the <hi>head</hi> is out of order, and the other <hi>Members</hi> are <hi>bliſtered,</hi> or <hi>let blood</hi> for it.</p>
+            <pb n="9" facs="tcp:33979:6"/>
+            <p>But we need not have recourſe to that in this caſe, here was ſin of their own to be ac<g ref="char:EOLhyphen"/>counted for. I confeſs, I am not ſatisfyed with that anſwer ſome have given to it, <hi>viz.</hi> that the People deſerved it for their ſin in not <hi>oppoſing</hi> David in this thing, and <hi>ſuffering themſelves</hi> to be <hi>numbred.</hi> For tho (as hath been already ſaid) <hi>David</hi> had no good rea<g ref="char:EOLhyphen"/>ſon for his doing it, yet he might have had, which he was not obliged to communicate to them: and it is a principle of too dan<g ref="char:EOLhyphen"/>gerous a latitude for the Government and Peace of Mankind, to affirm, that Subjects are not to ſubmit to the commands and orders of their reſpective Soveraigns, except they themſelves are ſatisfied in the grounds of them. Tho (I ſay) I do not take this to be their ſin; yet they had ſins, ſuch as did juſtly merit this Puniſhment at the hands of God. Tho they are not expreſſ in <hi>parti<g ref="char:EOLhyphen"/>cular,</hi> yet they are ſufficiently implyed in the <hi>general, v.</hi> 1 of this Chapter, where it is ſaid that <hi>the anger of the Lord was kindled againſt Iſrael, and he moved David againſt them, to ſay, go number Iſrael.</hi> So that this act of his ſeemeth not ſo much the <hi>cauſe</hi> of their
+<pb n="10" facs="tcp:33979:7"/>
+               <hi>Puniſhment</hi> as the <hi>occaſion.</hi> God had a con<g ref="char:EOLhyphen"/>troverſy with them, for which they deſerv<g ref="char:EOLhyphen"/>ed as much as this, had <hi>David</hi> never done the thing: But upon his doing it, he inflict<g ref="char:EOLhyphen"/>eth it, in the ſame act puniſhing him too. The wiſe man telleth us, Prov. 14.28. <hi>in the multitude of people is the Kings honour, but in the want of people is the deſtruction of the Prince.</hi> So that this was really a judg<g ref="char:EOLhyphen"/>ment upon him as well as them, and, if we conſider it, a home one, ſuch as he might evidently read his <hi>ſin</hi> in His ſin was <hi>Vanity</hi> and <hi>carnal Security,</hi> in <hi>relying</hi> and <hi>glorying</hi> in the <hi>numbers</hi> of his people: his puniſh<g ref="char:EOLhyphen"/>ment is, the leſſning and diminiſhing the <hi>numbers</hi> of thoſe people he was ſo proud of.</p>
+            <p>And let this ſuffice for the ſecond Quaery, of which, with the former, having ſaid thus much, I now proceed to the chief one: Why <hi>David</hi> doth here ſo particularly deprecate <hi>falling into the hand of man?</hi>
+            </p>
+            <p>As co the other two, ſome think he was indifferent, leaving it wholly to Gods diſpo<g ref="char:EOLhyphen"/>ſal, without pitching upon either: only praying againſt the third.</p>
+            <pb n="11" facs="tcp:33979:7"/>
+            <p>But the Septuagint is of another mind, adding to the Text theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>David choſe the plague.</hi>
+               <note place="margin">v. 5.</note> And that which immediately followeth in the next verſe ſeemeth much to countenance it, where it is ſaid, <hi>ſo God ſent the Peſtilence.</hi> As if he had done it upon his Election and determination.<note place="margin">Antiq. Jud. l. 7. c. 13.</note> 
+               <hi>Joſephus</hi> in his hiſtory not only affirmeth this particular of <hi>David,</hi> but addeth this plauſible reaſon of it, that he did it upon prudent and politick conſiderations; to avoid the murmurings and diſcontent of the People, who (it was eaſy to foreſee) were like to reſent it ſufficiently, to undergo any of thoſe miſeries, purely upon his ſcore. To prevent this therefore as much as might be, he <hi>ſuppoſeth</hi> that he choſe this, as that wherein he ſhowed the leaſt reſpect of all to his own ſecurity.</p>
+            <p>Had he choſe the <hi>Famine,</hi> that indeed would have been very heavy upon the <hi>poor,</hi> they would have much to do to <hi>live</hi> when <hi>proviſions</hi> ſhould be ſo exceſſive <hi>ſcarce</hi> and <hi>dear,</hi> that can ſo <hi>hardly</hi> ſhift for themſelves when they are at the <hi>cheapeſt.</hi> Yea, in ſo <hi>many years,</hi> it muſt have pinched even the <hi>rich,</hi> and
+<pb n="12" facs="tcp:33979:8"/>they who uſed to <hi>fare deliciouſly</hi> could not but be put to it, to ſupply themſelves with neceſſaries. But it cannot be imagined, that the <hi>King</hi> himſelf could have ſuffered in his own perſon by it. If there were any food to be had in the <hi>Kingdom,</hi> be ſure there would be no <hi>want</hi> at his <hi>table;</hi> and if there were none, he could be furniſhed from <hi>other</hi> Countries.</p>
+            <p>If he had been worſted by his <hi>enemies,</hi> tho his own <hi>courage</hi> and <hi>gallantry</hi> might be for carrying him into the greateſt <hi>dangers,</hi> yet the <hi>people</hi> would have thought themſelves too much concerned for <hi>the light of Iſrael,</hi> not to interpoſe themſelves to <hi>ſuccour</hi> and <hi>ſe<g ref="char:EOLhyphen"/>cure</hi> him: or they who before were ſo ten<g ref="char:EOLhyphen"/>der of him, that their <hi>care</hi> made them al<g ref="char:EOLhyphen"/>moſt <hi>forget</hi> their <hi>duty, ſwear unto him he ſhould go no more out with them unto battel,</hi>
+               <note place="margin">2 Sam. 21.7.</note> would have perſwaded him to retire to ſome of his <hi>ſtrong-holds,</hi> that might be tenable for <hi>three months</hi> at leaſt againſt any army.</p>
+            <p>But in the <hi>peſtilence,</hi> he who had the command of the Exchequer, would be in equal danger with him that had no money; he who ſat upon the Throne, as obnoxious
+<pb n="13" facs="tcp:33979:8"/>as he that grindeth at the Mill. The Peſti<g ref="char:EOLhyphen"/>lence could not be kept off by the moſt <hi>ſtout</hi> and <hi>reſolute Guards,</hi> nor could it be kept out by the moſt <hi>impregnable Walls</hi> and <hi>Bulwarks</hi>
+            </p>
+            <p>This <hi>David</hi> could not but know when he choſe it, but he doth it not upon ſo <hi>mean a principle</hi> as that <hi>Hiſtorian</hi> fancyeth, only to decline the <hi>clamour and cenſure of his People<g ref="char:punc">▪</g>
+               </hi> No, this <hi>publick ſpirited Prince</hi> had a <hi>nobler</hi> and more <hi>heroick</hi> Soul. He was really con<g ref="char:EOLhyphen"/>tent not only to ſuffer <hi>with</hi> them, but <hi>for</hi> them; to have a <hi>ſhare</hi> in the <hi>Puniſhment,</hi> but to bear it <hi>all.</hi> He ſaid unto God, <hi>Let thy hand I pray thee be on me and my Fathers houſe but not on thy People that they ſhould be plague<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">V. 17.</note> No, it was not ſo much from deſign to <hi>pacifie</hi> them, or fear of <hi>loſing</hi> their <hi>good opi<g ref="char:EOLhyphen"/>nion,</hi> as from a juſt perſwaſion, that all things conſidered, this was the <hi>leaſt</hi> of thoſe <hi>three evils</hi> propounded to him; or however that <hi>flying before his enemies</hi> was the <hi>greateſt,</hi> and therefore he expreſly declineth that, <hi>let me not fall into the hand of man.</hi>
+            </p>
+            <p>It would not be paſſed by here, that he doth not ſpeak ſimply of having <hi>war</hi> with
+<pb n="14" facs="tcp:33979:9"/>men. It appeareth by his own frequent practices, he did not look on that as ſo <hi>dread<g ref="char:EOLhyphen"/>ful</hi> a thing as either <hi>Plague</hi> or <hi>Famine.</hi> Not only <hi>fierce</hi> and <hi>ambitious,</hi> but <hi>juſt</hi> and <hi>good Princes,</hi> have choſen <hi>that,</hi> rather than ſuffer things much leſs terrible, without <hi>reparation</hi> and <hi>ſatisfaction.</hi> For tho <hi>ſuch</hi> have been u<g ref="char:EOLhyphen"/>niverſally aſhamed to involve thoſe that were under them in ſuch calamities as <hi>this</hi> neceſſa<g ref="char:EOLhyphen"/>rily bringeth along with it, for <hi>ſlight</hi> and <hi>frivolous</hi> cauſes; ſuch as their own <hi>Vanity</hi> or <hi>Glory, Humour</hi> or <hi>Covetuouſneſs, Pride</hi> or <hi>per<g ref="char:EOLhyphen"/>ſonal Piques;</hi> yet <hi>breaking their Leagues, in<g ref="char:EOLhyphen"/>juring their Subjects, invading their rights, oppreſſing their Allies,</hi> and ſuch like, have al<g ref="char:EOLhyphen"/>ways been judged not only <hi>ſufficient</hi> but <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> grounds for it, notwithſtanding all the <hi>expences, miſeries, dangers</hi> and <hi>bloodſhed</hi> that attend it. It was not ſimply <hi>war,</hi> but <hi>miſ<g ref="char:EOLhyphen"/>carrying</hi> in the <hi>war</hi> that he ſo dreaded, the being <hi>conquered</hi> and <hi>overcome,</hi> which he here expreſſeth by <hi>falling into their hand, let me not fall into the hand of man.</hi>
+            </p>
+            <p>This he apprehendeth the <hi>ſaddeſt</hi> of any of the <hi>judgments,</hi> propounded to him. And there are Four things, that in <hi>his caſe</hi> might well induce him to think ſo.</p>
+            <pb n="15" facs="tcp:33979:9"/>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> They were <hi>Men.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> They were <hi>Enemies.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly,</hi> They were <hi>Foreigners.</hi>
+               </item>
+               <item>
+                  <hi>Fourthly,</hi> They were <hi>Idolaters, haters</hi> and <hi>perſecutors</hi> of the <hi>true religion</hi> which was <hi>pro<g ref="char:EOLhyphen"/>feſſed</hi> by <hi>him</hi> and his <hi>people.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> They were <hi>Men.</hi> When <hi>God</hi> lifteth up his hand <hi>who</hi> can <hi>contend?</hi> when <hi>he</hi> is an<g ref="char:EOLhyphen"/>gry, who can ſtand before him? Here to <hi>yield</hi> is our <hi>duty;</hi> to <hi>ſubmit</hi> and <hi>humble</hi> our <hi>ſelves</hi> our <hi>glory.</hi> When <hi>ſmitten</hi> by <hi>him</hi> men are <hi>pittied:</hi> When <hi>afflicted</hi> by <hi>him,</hi> they are <hi>lamented.</hi> It doth not reflect upon their <hi>diſ<g ref="char:EOLhyphen"/>cretion</hi> when their <hi>Harveſts</hi> are deſtroyed by <hi>unſeaſonable weather,</hi> nor upon their <hi>valour</hi> and <hi>bravery</hi> to be <hi>viſited,</hi> and carried off by a malignant <hi>Feaver.</hi> Theſe are purely from <hi>above; enemies</hi> no more <hi>contribute</hi> to it, than <hi>friends</hi> can <hi>remedy</hi> it; either have more in<g ref="char:EOLhyphen"/>fluence one way or other, than they have upon an <hi>Eclipſe</hi> of the <hi>Sun,</hi> or an <hi>Earthquake.</hi> But this was quite another caſe. Here the blow was to come from his <hi>fellow creatures;</hi> thoſe with whom he was at leaſt <hi>equal</hi> in all things, and upon the <hi>level.</hi> So that if <hi>theſe prevailed</hi> againſt him, the <hi>diſgrace</hi> would be
+<pb n="17" facs="tcp:33979:10"/>as great as the <hi>defeat,</hi> and the loſs of his <hi>Eſteem</hi> of as bad conſequence as of a <hi>battel.</hi> How muſt the <hi>news</hi> of it leſſen his <hi>reputation</hi> every where round about him! When <hi>it ſhould be told in Gath, and publiſhed in the ſtreets of Askalon, how would the daughters of the Philiſtines rejoyce, the Daughters of the un<g ref="char:EOLhyphen"/>circumciſed triumph,</hi> to hear that <hi>Iſrael fled! Iſrael</hi> that had been ſo renowned for a <hi>vali<g ref="char:EOLhyphen"/>ant</hi> and <hi>warlike</hi> nation, whoſe <hi>anceſtors</hi> had <hi>ſubdued thoſe</hi> people, and been a continual terror to them!<note place="margin">Heb. 11.32.</note> 
+               <hi>The time would fail me to tell of Gideon, and of Barak of Sampſon alſo, and of Jephthah, who waxed valiant in fight, and turned to flight the armies of theſe aliens:</hi> of <hi>the bow of Jonathan that turned not back, and the Sword of Saul that returneth not empty from the blood of the ſlain,</hi>
+               <note place="margin">2 Sam. 1.22.</note> 
+               <hi>from the fat of the mighty.</hi>
+            </p>
+            <p>'Tis granted that <hi>time and chance ſo happen to all,</hi> that the <hi>battel is not always to the ſtrong;</hi> by <hi>ſurprize</hi> and <hi>ſtratagems</hi> on one hand, by <hi>careleſneſs</hi> or <hi>treachery</hi> on the other; by odd <hi>accidents</hi> and <hi>contingencies</hi> on both; it may ſo fall out that the <hi>likelier</hi> hoſt may be diſ<g ref="char:EOLhyphen"/>comfited? and not ſuffer much in their <hi>cre<g ref="char:EOLhyphen"/>dit</hi>
+               <pb n="18" facs="tcp:33979:10"/>neither: But to have it ſo conſtantly for <hi>three months</hi> together, they needs muſt fall into an abſolute <hi>contempt</hi> amongſt their <hi>ad<g ref="char:EOLhyphen"/>verſaries.</hi> How muſt this fluſh and puff up an inſolent and vain-glorious people, to find themſelves ſo <hi>long</hi> and <hi>uninterruptedly ſucceſs<g ref="char:EOLhyphen"/>ful?</hi> This were enough to poſſeſs them with a belief that if ever they had been <hi>ſtout,</hi> they were now utterly <hi>degenerated;</hi> and would never <hi>ſtand</hi> more, who were ſo <hi>conſtantly routed:</hi> and that is one thing that might make him ſo averſe to this above all, the <hi>diſgrace</hi> and <hi>ſhame</hi> of it: they were <hi>men:</hi> ſuch men as he and his people had hitherto been reckoned an <hi>over match</hi> for. But this was the leaſt thing.</p>
+            <p>
+               <hi>Secondly,</hi> They were <hi>Enemies.</hi> Such as would rejoyce in an <hi>opportunity</hi> to reak their <hi>malice</hi> on them, and be ſure to do all the <hi>miſchief</hi> they were <hi>able</hi> to them. It is the character given of the Almighty that <hi>he doth not afflict willingly nor grieve the Children of men,</hi>
+               <note place="margin">Lam. 3.33.</note> 
+               <hi>that he will not always chide,<note place="margin">Pſal. 103.9.</note> neither keep his anger for ever.</hi> But that when he is <hi>offend<g ref="char:EOLhyphen"/>ed</hi> he is <hi>eaſy to be entreated.</hi> So he deſcribeth himſelf in the <hi>Prophet.</hi> At <hi>what time I ſhall
+<pb n="18" facs="tcp:33979:11"/>ſpeak concerning a Nation and concerning a Kingdom, to pluck up and to pull down, and to deſtroy it, if that Nation againſt whom I have pro<g ref="char:EOLhyphen"/>nounced, turn from their evil,</hi>
+               <note place="margin">Jer. 18.7, 8.</note> 
+               <hi>I will repent of the evil that I thought to do unto them. <g ref="char:V">Ʋ</g>pon</hi> their <hi>Faſting</hi> and <hi>Humiliation,</hi> upon their <hi>acknowledgment</hi> and <hi>amendment</hi> he will <hi>receive them gratiouſly</hi> and <hi>revoke</hi> his <hi>ſentence.</hi> But this is not after the manner of <hi>men,</hi> offended men toward them they bear a grudge to, when they have them in their <hi>Power.</hi> To <hi>humble</hi> our ſelves before them is but to <hi>deſ<g ref="char:EOLhyphen"/>piſed</hi> by them; to <hi>mourn,</hi> but to be <hi>derided</hi> by them; to <hi>pray</hi> and <hi>beſeech</hi> them, but the way to be the more <hi>reproached</hi> and <hi>upbraided</hi> by them.</p>
+            <p>In the ſtory of <hi>Suſanna,</hi>
+               <note place="margin">V. 22, 23.</note> ſhe is repreſented as making a <hi>choice</hi> ſeemingly <hi>contrary</hi> to this; <hi>ſhe ſighed and ſaid</hi> to her enemies, <hi>I am ſtrait<g ref="char:EOLhyphen"/>ned on every ſide, for if I do this thing it is death unto me, and if I do it not I cannot eſcape your hands, it is better for me to fall into your hands,</hi> &amp;c. But <hi>hers</hi> was a quite different caſe, then the <hi>choice</hi> was between <hi>offending God</hi> on one hand, and <hi>diſpleaſing Men</hi> on the other. Then it is not in the leaſt to be
+<pb n="19" facs="tcp:33979:11"/>doubted, but that it is a more <hi>fearful thing to fall into the hands of the living God,</hi> than to <hi>fall into the hands</hi> of the moſt <hi>mercileſs and cru<g ref="char:EOLhyphen"/>el men; theſe can but kill the body, and when they have done that, have not more that they can do,</hi> but <hi>he can caſt both ſoul and body into Hell.</hi> Accordingly when the queſtion is be<g ref="char:EOLhyphen"/>tween <hi>ſin</hi> and <hi>danger,</hi> we ſhould rather run the hazard of the moſt <hi>probable apparent dan<g ref="char:EOLhyphen"/>ger,</hi> than endeavour to avoid it by <hi>direct</hi> and <hi>known ſin.</hi> But if we ſpeak of meer <hi>temporal Puniſhment,</hi> it is better to <hi>fall into the hand of God:</hi> for when he is angry, upon our <hi>ſin<g ref="char:EOLhyphen"/>cere</hi> and <hi>penitent</hi> application to him, he may, he hath promiſed he will be prevailed with to <hi>remit</hi> and <hi>forgive,</hi> to relax and mitigate his ſentence. So according to the Sept. he did here: what we have tranſlated <hi>the time appointed,</hi> v. 15. they read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſo the Lord ſent a Peſtilence upon Iſrael from the morning to the hour of noon;</hi> underſtanding by the time appointed, not the time appointed by God for the laſting of the <hi>peſtilence,</hi> but for the conſuming the <hi>daily ſacrifice:</hi> and ſo the <hi>Chaldee</hi> paraphraſt, <hi>a tempore quo ma<g ref="char:EOLhyphen"/>ctatur juge, quouſque adoleatur:</hi> by this In<g ref="char:EOLhyphen"/>terpretation,
+<pb n="20" facs="tcp:33979:12"/>tho he threatned it for <hi>three days,</hi> yet he recalled it in <hi>ſix hours.</hi> But to be <hi>given up to the will of men,</hi> is a different thing; from <hi>them,</hi> this is not to be hoped for; tho upon our <hi>turning to him,</hi> he merci<g ref="char:EOLhyphen"/>fully maketh his <hi>judgments,</hi> not only leſs than his <hi>word,</hi> but leſs than our <hi>fears:</hi> this is not to be expected from the <hi>hand of men;</hi> they are deaf as the Adder that ſtoppeth her ears, and will not hearken to the voice of the charmer. And that is another conſidera<g ref="char:EOLhyphen"/>tion, upon which <hi>David</hi> chooſeth to <hi>fall into the hand of God,</hi> a puniſhment <hi>immediately</hi> from him, becauſe he might be prevailed with to relent: for <hi>his mercies are great,</hi> but prayeth againſt falling into <hi>the hand of man,</hi> being delivered up to their power, becauſe there was nothing to be looked for but the <hi>extremity,</hi> they would not bate a minute of the time <hi>permitted</hi> for their <hi>vexing</hi> them.</p>
+            <p>
+               <hi>Thirdly,</hi> They were <hi>Foreigners. The Ta<g ref="char:EOLhyphen"/>bernacles of Edom and the Iſhmalites, Moab and the Hagarens, Gebal and Ammon, Amalek and Aſſur,</hi> &amp;c. Tho all <hi>enemies</hi> are very terrible, yet there are <hi>degrees</hi> amongſt <hi>theſe,</hi> they of the <hi>ſame Country</hi> (tho <hi>enemies</hi>) being <hi>neigh<g ref="char:EOLhyphen"/>bours</hi>
+               <pb n="21" facs="tcp:33979:12"/>and <hi>brethren</hi> think themſelves to have ſome ſort of <hi>rye</hi> on them towards one ano<g ref="char:EOLhyphen"/>ther, inſomuch that when they are ſo unhap<g ref="char:EOLhyphen"/>py as to be engaged in <hi>war</hi> among themſelves, whoever is <hi>Victor</hi> looketh on himſelf as un<g ref="char:EOLhyphen"/>der an obligation to be <hi>tender.</hi> But what can they reaſonably hope for, that fall into the hands of <hi>Strangers?</hi>
+            </p>
+            <p>Many and greivous are the <hi>calamities</hi> that attend a <hi>civil war,</hi> the <hi>frights,</hi> the <hi>outrages,</hi> the <hi>waſtes,</hi> the <hi>violences</hi> have been too lately felt in <hi>this Nation,</hi> to need yet to be deſcrib<g ref="char:EOLhyphen"/>ed to you: They who have not ſeen them with their eyes, have heard them with their ears, and our Fathers have (with reaſon enough) declared to us, the miſerable doings that were then. But ſad as this was, it is yet much ſadder to bear the fury of <hi>Foreigners, their little finger is heavier than the loins of natives, whereas theſe chaſtiſe with whips, they chaſtiſe with Scorpions.</hi>
+            </p>
+            <p>When God threatneth his People with the <hi>ſevereſt</hi> ſort of <hi>Foes,</hi> he addeth this as the moſt aggravating circumſtance, Jer. 5.15. <hi>I will bring a nation upon you from far O houſe of Iſrael,</hi> &amp;c. <hi>a nation whoſe language thou knoweſt not,
+<pb n="22" facs="tcp:33979:13"/>neither underſtandeſt what they ſay.</hi> What a condition muſt they be in, that are at the mercy of ſuch as theſe! what have theſe to check or lay reſtraints on them! All argu<g ref="char:EOLhyphen"/>ments of compaſſion ſoften them no more, than weeping doth the Wolf, or entreating worketh on Tygers. Who can expreſs the <hi>ſpoils</hi> and <hi>inſolencies,</hi> the <hi>cruelty</hi> and <hi>barbari<g ref="char:EOLhyphen"/>ties,</hi> the <hi>rapes</hi> and <hi>villanies,</hi> the <hi>burnings</hi> and <hi>bloodſheds</hi> that are the <hi>delight</hi> as well as <hi>buſi<g ref="char:EOLhyphen"/>ness</hi> of ſuch <hi>Invaders!</hi>
+               <note place="margin">Iſa. 13.15, 16.</note> 
+               <hi>Every one that is found ſhall be thruſt through, and every one that is joyned unto them ſhall fall by the Sword, their children alſo ſhall be daſhed to pieces before their eyes, their houſes ſhall be ſpoiled, and their wives raviſhed, their bows alſo ſhall daſh the young men in peices, and they ſhall have no pity on the fruit of the womb,</hi>
+               <note place="margin">Pſal. 79.2.</note> 
+               <hi>their dead bodies ſhall they give to be meat unto the fowls of the hea<g ref="char:EOLhyphen"/>ven, and their fleſh unto the beaſts of the earth: it ſhall be as when God overthrew Sodom and Gomorrah.</hi> So the Spirit at ſundry times de<g ref="char:EOLhyphen"/>ſcriberh the dealings of <hi>ſuch men</hi> with thoſe <hi>that fall into their hands.</hi> What a fearful a<g ref="char:EOLhyphen"/>gony doth it put the man of God in when he ſaw it but in <hi>imperfect Viſion,</hi> Jer. 4.19, 20.
+<pb n="23" facs="tcp:33979:13"/>
+               <hi>My bowels, my bowels, I am pained at my very heart, my heart maketh a noiſe in me, I cannot hold my peace, becauſe thou haſt heard, O my Soul, the ſound of the Trumpet, and the alarm of war: deſtruction upon deſtruction is cryed, for the whole land is ſpoiled, ſuddenly are my tents ſpoiled, and my curtains in a moment.</hi> And when theſe are the fruits of it who can wonder, if <hi>David</hi> here pray ſo particularly, <hi>let me not fall into the hand of man?</hi> And yet you have not heard the worſt of it. For</p>
+            <p>Fourthly, There is to be added to all this, that they were <hi>Idolaters, Haters</hi> and <hi>Perſecu<g ref="char:EOLhyphen"/>tors</hi> of the <hi>true religion</hi> which was <hi>profeſſed</hi> by <hi>him</hi> and his <hi>people.</hi> Such were the <hi>borderers upon Iſrael all of them;</hi> and if theſe ſhould get the <hi>better</hi> of them, they would certainly bring their <hi>Gods</hi> along with them. And could there any thing befal them like that! <hi>The Law of thy mouth</hi> (ſaith <hi>David</hi>) <hi>is better unto me than thouſands of Gold and Silver,</hi> but if theſe pre<g ref="char:EOLhyphen"/>vailed they muſt look to be deprived not on<g ref="char:EOLhyphen"/>ly of their Gold and Silver, but <hi>that</hi> too. And how ſad a conſideration muſt it be to a <hi>Prince</hi> ſo ſincerely <hi>pious</hi> as he, to think that his <hi>people</hi> might by this means loſe not only
+<pb n="24" facs="tcp:33979:14"/>their <hi>eſtates</hi> and <hi>fortunes,</hi> but the <hi>profeſſion</hi> and <hi>worſhip</hi> of the <hi>true God</hi> too! They to whom were <hi>committed the Oracles of God, periſh for lack of viſion!</hi> they to whom <hi>pertained the a<g ref="char:EOLhyphen"/>doption and glory, be without a Prieſt and with<g ref="char:EOLhyphen"/>out an Ephod!</hi> the <hi>abomination of deſolation ſtand</hi> in the <hi>holy</hi> place, and the <hi>ark</hi> be removed to make way for <hi>Dagon!</hi> When he thought of theſe things how could he but <hi>pour out his Soul</hi> in him?</p>
+            <p>And yet this is the common effect of their <hi>Victories</hi> with them that <hi>hold of ſuperſtitious Vanities</hi> they are as eager to rout the <hi>faith</hi> as the <hi>Forces</hi> of them who are more <hi>enlightned,</hi> and as zealous to ſpread their <hi>errors</hi> as their <hi>dominions.</hi> Hear how the <hi>Pſalmiſt</hi> deſcribeth ſuch peoples behaviour upon their ſucceſſes, Pſal. 74. <hi>Thine enemies roar in the midſt of the congregation they ſet up their banners for to<g ref="char:EOLhyphen"/>kens, they defile the dwelling place of thy name, and break down the carved work thereof with axes and hammers, they caſt fire into thy Sanctuary, and burn up all the Synagogues of God in the land.</hi>
+            </p>
+            <p>If they would ſtop here it were not alto<g ref="char:EOLhyphen"/>gether ſo intolerable, tho they could not
+<pb n="25" facs="tcp:33979:14"/>
+               <hi>ſerve</hi> God <hi>publickly,</hi> it were ſome comfort, if they might be permitted to do it <hi>privately;</hi> but as if it were not enough to hinder them from the exerciſe of the <hi>true religion,</hi> they are not content, except they can compel them to be <hi>proſelytes</hi> to their <hi>falſe</hi> one; making uſe of the moſt <hi>horrid, barbarous</hi> and <hi>inhumane</hi> ways to compaſs it. <hi>Hebr.</hi> 11.36, 37. we read the uſage that from time to time hath been the portion of ſuch as would not <hi>apoſtatize</hi> and <hi>comply, they had trials of cruel mockings and ſcourgings, moreover of bonds and impriſon<g ref="char:EOLhyphen"/>ments, they were ſtoned, they were ſawn aſunder, they were tempted, they were ſlain with the Sword, they wandred about in Sheeps-skins and Goats-skins, being deſtitute, afflicted, tormented.</hi>
+            </p>
+            <p>As if it were a ſmall thing to be maſters of their <hi>Bodies, men</hi> of this ſort ſet up to be Maſters of their <hi>Souls</hi> too; and that they may <hi>wear out the Saints of the moſt high,</hi> are reſtleſs while they have <hi>changed their Times and Laws.</hi> And when we reflect upon this, that thus the vanquiſhed are generally treat<g ref="char:EOLhyphen"/>ed by <hi>ſuch enemies,</hi> we cannot but be con<g ref="char:EOLhyphen"/>vinced that David<hi>'s choice</hi> was a <hi>wiſe one,</hi> and he had great reaſon to <hi>pray,</hi> that he might
+<pb n="26" facs="tcp:33979:15"/>
+               <hi>fall into the hand of the Lord,</hi> and that he <hi>might not fall into the hand of ſuch men.</hi> To conclude then.</p>
+            <p>Theſe things I have in a figure transferred to <hi>David</hi> and his Enemies for your ſakes, that you may learn not to think of the <hi>Enemy</hi> you are now contending with, otherwiſe than you ought to think, but to think proper<g ref="char:EOLhyphen"/>ly. It is but too plain that <hi>ſome mens</hi> behavi<g ref="char:EOLhyphen"/>our maketh it not unneedful; <hi>men</hi> who are not able to conceal their <hi>ſatisfaction,</hi> when they hear any thing of his <hi>power,</hi> or <hi>joy</hi> when they hear of his <hi>advantages.</hi> There are a ſort of <hi>Engliſh-men,</hi> whom (I confeſs) I do not much wonder at, (thoſe who arc blind to all conſiderations beſides, where they apprehend <hi>ROME</hi> to be any ways concerned or in<g ref="char:EOLhyphen"/>tereſted) but that any of <hi>our own Communion</hi> ſhould be not only ſo <hi>unnatural,</hi> but <hi>ſelf-contradicting,</hi> I needs muſt ſay, is not a little ſurprizing. Admit all their objections, what can ſuch in all their uneaſy frowardneſs pro<g ref="char:EOLhyphen"/>miſe themſelves, as to the bettering of things from <hi>him.</hi> Could I ſuppoſe any ſuch to be here, I would expoſtulate with them in the
+<pb n="27" facs="tcp:33979:15"/>Prophet <hi>Amos</hi>'s language, Ch. 5.18, 19. <hi>Woe unto you that deſire the day of the Lord! to what end is it for you? The day of the Lord is dark<g ref="char:EOLhyphen"/>neſs and not light. As if a man did flee from a Lyon and a Bear met him, or went into the houſe and leaned his hand on the wall, and a Serpent bit him.</hi> After what hath been already ſaid, it would be next to nauſeous to go about to make a <hi>parallel:</hi> Your own thoughts muſt be<g ref="char:EOLhyphen"/>fore this have ſuggeſted to you, that there was nothing in the <hi>men David</hi> ſo much dreaded falling into the hands of, more than <hi>Plague</hi> or <hi>Famine,</hi> that, without any ſtrai<g ref="char:EOLhyphen"/>ning, is not to be found in <hi>theſe.</hi>
+            </p>
+            <p>But yet there are among us who endea<g ref="char:EOLhyphen"/>vour to perſwade themſelves and others that notwithſtanding we need not be appre<g ref="char:EOLhyphen"/>henſive in our caſe, becauſe this <hi>Monarch</hi> hath no <hi>deſign</hi> at all on <hi>us,</hi> all he aimeth at is only to <hi>aſſiſt</hi> and <hi>reſtore</hi> a diſtreſſed <hi>Prince</hi> that hath <hi>fled</hi> for <hi>ſuccour</hi> to him. Such a kind of conceit was once got into the heads of a conſiderable party among the <hi>Himeri<g ref="char:EOLhyphen"/>ans,</hi> concerning <hi>Phalaris,</hi> whom they ap<g ref="char:EOLhyphen"/>plied to in their <hi>diſcontents</hi> for <hi>help</hi> and <hi>aid,</hi> giving him all ſuch furtherances as they
+<pb n="28" facs="tcp:33979:16"/>could, And notwithſtanding his <hi>tyrannick</hi> and <hi>ambitious</hi> humour was ſo well known, would not <hi>believe</hi> that he aimed at any thing in all his <hi>chargeable preparations</hi> but only to <hi>gratifie</hi> and <hi>ſerve</hi> them. <hi>Steſichorus</hi> (their Countryman) making an Oration to them upon this occaſion,<note place="margin">Ariſt. Rhet. l. 2. c. 21.</note> relateth an <hi>Apo<g ref="char:EOLhyphen"/>logue,</hi> which for its appoſiteneſs I ſhall crave leave to repeat, and leave it to them who take pleaſure in abuſing themſelves with a ſham of like ſort, to conſider of it. The Apologue was of a <hi>Horſe,</hi> who being troubled that the <hi>Stag</hi> was got into his paſture, de<g ref="char:EOLhyphen"/>ſired a <hi>Man</hi> that he would help him to drive him out: He ſeemed ready and wil<g ref="char:EOLhyphen"/>ling; but told him, it would be neceſſary that he ſhould Bridle and Saddle, and get up upon his back, or elſe he ſhould not be able to compaſs it: The <hi>Horſe</hi> accepteth the <hi>condition,</hi> and <hi>ſuffereth</hi> him to do ſo; but when he was once up, inſtead of being re<g ref="char:EOLhyphen"/>venged of the <hi>Stag,</hi> the poor creature found his miſtake, that he was only ſubject to the <hi>Rider</hi> paſt recovery. How like <hi>the horſe and the mule that have no underſtanding,</hi> are they that can be ſo <hi>credulous,</hi> as to imagine ſuch
+<pb n="29" facs="tcp:33979:16"/>a pretence in <hi>our great enemy,</hi> to be any thing more real than the other was, which he im<g ref="char:EOLhyphen"/>poſed upon the <hi>Beaſt</hi> with?</p>
+            <p>Who would pity them that ſhould put themſelves <hi>into the hands of ſuch men?</hi> who would pity them that would not do their utmoſt to keep out of them? It is granted it muſt be very <hi>expenſive,</hi> and a <hi>charge</hi> we have not been uſed to: but is not that rather to be choſen than to <hi>fall into the hands of men?</hi> Such <hi>men,</hi> as would not be ſatisfied with much larger proportions of what we have, but be inſatiable as <hi>the daughter of the Horſe<g ref="char:EOLhyphen"/>leech?</hi> It is granted it muſt coſt the <hi>blood</hi> and <hi>lives</hi> of many; but is not that rather to be <hi>choſen,</hi> than to <hi>fall into the hands of men?</hi> Such <hi>men,</hi> who if they ſpared them, would make all ſo <hi>weary of their lives,</hi> they would not value them?</p>
+            <p>This excellent <hi>King</hi> in the text, this ten<g ref="char:EOLhyphen"/>der <hi>Father</hi> of his <hi>country,</hi> is content to ſuffer any thing from the <hi>hand of God,</hi> rather than be but <hi>three Months</hi> in the <hi>hands of ſuch men.</hi> But that which now threatneth us, is a much <hi>ſadder</hi> thing; not for <hi>three months,</hi> but both <hi>this</hi> and <hi>after ages</hi> their being <hi>Maſters of us.</hi>
+               <pb n="30" facs="tcp:33979:17"/>And when this is before us, what <hi>earthly ca<g ref="char:EOLhyphen"/>lamity</hi> as far as lyeth in us to determine, ſhould we not <hi>chooſe</hi> rather? Tho God doth not offer us our <hi>choice,</hi> as he did <hi>David</hi> here, by <hi>ſpecial revelation,</hi> yet in ſome kind he doth by giving us <hi>reaſon</hi> to <hi>guide</hi> us in <hi>difficulties,</hi> and putting it into our <hi>power</hi> to <hi>pitch</hi> upon that which looketh leaſt perilous.</p>
+            <p>It is time that I had done; but not to diſ<g ref="char:EOLhyphen"/>miſs you without ſome comfort, I have yet to tell you, that he dealeth with <hi>us</hi> more <hi>gra<g ref="char:EOLhyphen"/>tiouſly,</hi> than he did here with <hi>David,</hi> he muſt unavoidably have ſuffered <hi>one</hi> of thoſe <hi>judg<g ref="char:EOLhyphen"/>ments</hi> that were propounded to him, But (tho we have <hi>ſins</hi> much greater to anſwer for) he puteth us into a method (if we will hearken to it) how we may eſcape them all. Neither fall into the <hi>hand of man,</hi> nor yet into the <hi>hand of God.</hi> Aſſuring us that if <hi>we will break off our ſins</hi> (every one our ſins with which we are conſcious to our ſelves we have provoked him) <hi>by righteouſneſs, and our iniquities by ſhewing mercy to the poor, it ſhall be a procuring our tranquility.</hi> He hath been pleaſed to give an <hi>earneſt</hi> of it already, even in our <hi>wilder<g ref="char:EOLhyphen"/>neſs,
+<pb n="31" facs="tcp:33979:17"/>ſpeaking comfortably,</hi> and <hi>opening a door of hope in the valley of Achor.</hi>
+            </p>
+            <p>
+               <hi>Come then, and let us return unto the Lord,</hi>
+               <note place="margin">Hoſ. 6.1, 2, 3.</note> 
+               <hi>for he hath torn, and he will heal us; he hath ſmitten, and he will bind us up. After two days he will revive us, in the third day he will raiſe us up, and we ſhall live in his ſight, then ſhall we know, if we follow onto know the Lord, his going forth is prepared as the morning, and he ſhall come unto us as the rain, as the later and former rain upon the earth.</hi> For which let us not only on <hi>this,</hi> but <hi>every</hi> day hum<g ref="char:EOLhyphen"/>bly and devoutly make our prayers to him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
